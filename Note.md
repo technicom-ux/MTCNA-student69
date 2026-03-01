@@ -1,4 +1,9 @@
-ก่อนการอบรม นักเรียนต้องมีบัญชีเข้าเว็บไซต์ไมโครติก และทำ Try Example Test ตามเฉลยในวีดีโอ
+### ก่อนการอบรม 
+1. นักเรียนต้องมีบัญชีเข้าเว็บไซต์ไมโครติก
+
+    สมัคร ที่นี้   https://mikrotik.com/client/register
+
+2. ทำ Try Example Test ตามเฉลยในวีดีโอ
 https://youtu.be/79IlgCOrEkE?si=uh9Yr12rSFGyuaRN
 
 โปรแกรมที่ใช้
