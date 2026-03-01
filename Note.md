@@ -13,3 +13,6 @@ https://mikrotik.com/download/winbox
 https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html
 3. XAMPP for Windows 8.2.12
 https://www.apachefriends.org/download.html
+4. VMware Workstation 16 Pro and Player keys 
+https://gist.github.com/NSWG/2ad67111efb983c762e3425ff49ba2ad
+
