@@ -15,4 +15,5 @@ https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html
 https://www.apachefriends.org/download.html
 4. VMware Workstation 16 Pro and Player keys 
 https://gist.github.com/NSWG/2ad67111efb983c762e3425ff49ba2ad
-
+5. โปรแกรม VirtualBox 
+https://www.virtualbox.org/wiki/Downloads
