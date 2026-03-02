@@ -1,5 +1,5 @@
 # MTCNA-student69
-The reskilling program in networking aims to achieve MTCNA Certified standards in order to develop learners' competencies to international standards.
+
 
 # กำหนดการและหัวข้อของการอบรม
 
@@ -45,7 +45,6 @@ The reskilling program in networking aims to achieve MTCNA Certified standards i
 
 10.30 – 12.00 น.	Example Questions in MTCNA Exam MTCNA Exam 
 
-### หมายเหตุ 
-*หัวข้อการอบรมเป็นหัวข้อตามหลักสูตร MTCNA (MikroTik Certified Network Associate) ของบริษัทไมโครติก https://i.mt.lv/cdn/training_pdf/mtcna_outline_2019181161836.pdf*
+
 
 
