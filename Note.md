@@ -3,8 +3,7 @@
 
     สมัคร ที่นี้   https://mikrotik.com/client/register
 
-2. ทำ Try Example Test ตามเฉลยในวีดีโอ
-https://youtu.be/79IlgCOrEkE?si=uh9Yr12rSFGyuaRN
+
 
 ### โปรแกรมที่ใช้
 1. WinBox v3.43 และ v4.0.1
